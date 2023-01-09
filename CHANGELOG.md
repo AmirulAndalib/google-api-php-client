@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.14.0](https://github.com/googleapis/google-api-php-client/compare/v2.13.0...v2.14.0) (2023-01-09)
+
+
+### Features
+
+* Add support for PHP 8.2 ([#2350](https://github.com/googleapis/google-api-php-client/issues/2350)) ([f2791c2](https://github.com/googleapis/google-api-php-client/commit/f2791c27235b9306895d7ce3244cb2b690f6b5c8))
+
 ## [2.13.0](https://github.com/googleapis/google-api-php-client/compare/v2.12.6...v2.13.0) (2022-12-19)
 
 
